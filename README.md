@@ -18,8 +18,8 @@ The dashboard is designed for **executive-level readability** — all critical K
 ---
 
 ## 📊 Dashboard Preview
+<img width="1300" height="723" alt="Screenshot 2026-04-20 200459" src="https://github.com/user-attachments/assets/d9c3ec69-d3b6-48d2-b099-6d6e8af76df7" />
 
-![BlinkIT Grocery Sales Dashboard](dashboard_screenshot.png)
 
 ---
 
